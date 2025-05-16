@@ -1,3 +1,12 @@
+---
+permalink: /paper/
+title: "科研论文"
+author_profile: true
+redirect_from: 
+  - /paper/
+  - /paper.md
+---
+
 ### 科研论文
 
 ##### 2025年
