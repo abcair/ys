@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "科研论文"
+title: "发表论文"
 permalink: /paper/
 author_profile: true
 ---
 
 {% include base_path %}
 
+---
 ##### 2025年
 
 [1]  BioSeq_Ksite: Multi-perspective feature-driven prediction of protein succinylation based on an adaptive attention module with SSBCE loss strategy <br> *International Journal of Biological Macromolecules*，中科院二区，TOP期刊，IF=8.4<br>Lun Zhu; Ziqi Zhang; **<u>Sen Yang</u>***  （通讯作者）
