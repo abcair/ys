@@ -10,16 +10,18 @@
 main:
   - title: "科研论文"
     url: /paper/
-
+    
+  - title: "CV"
+   url: /cv/
 
   #- title: "科研论文"
   #  url: /publications/
 
-  # - title: "Talks"
-   # url: /talks/    
+  - title: "Talks"
+   url: /talks/    
 
-  #- title: "Teaching"
-  # url: /teaching/    
+  - title: "Teaching"
+  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -27,8 +29,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-   url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/
