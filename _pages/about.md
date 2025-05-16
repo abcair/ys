@@ -4,6 +4,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 
 
@@ -21,3 +22,6 @@ redirect_from:
 
 ---
 
+**联系方式**
+邮箱：ys@cczu.edu.cn
+地址：常州大学西太湖校区图文信息楼614实验室
