@@ -14,6 +14,9 @@ main:
   - title: "科研项目"
     url: /project/ 
 
+  - title: "发明专利"
+    url: /patent/ 
+    
   - title: "学生培养"
     url: /student/   
 
