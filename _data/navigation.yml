@@ -11,8 +11,8 @@ main:
   - title: "科研论文"
     url: /paper/
     
-  - title: "CV"
-   url: /cv/
+  # - title: "CV"
+   # url: /cv/
 
   #- title: "科研论文"
   #  url: /publications/
