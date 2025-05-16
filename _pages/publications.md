@@ -4,7 +4,6 @@ permalink: /paper/
 author_profile: true
 ---
 
-### 科研论文
 
 ##### 2025年
 
