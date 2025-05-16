@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh_CN"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
