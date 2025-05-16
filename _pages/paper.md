@@ -7,6 +7,8 @@ redirect_from:
   - /paper.md
 ---
 
+{% include base_path %}
+
 ### 科研论文
 
 ##### 2025年
