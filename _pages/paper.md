@@ -1,10 +1,10 @@
----
-title: "科研论文"
-permalink: /paper/
-author_profile: true
-redirect_from:
-  - /paper/
----
+#---
+#title: "科研论文"
+#permalink: /paper/
+#author_profile: true
+#redirect_from:
+#  - /paper/
+#---
 
 ### 科研论文
 
