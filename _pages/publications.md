@@ -14,7 +14,8 @@ author_profile: true
 &nbsp;&emsp;&emsp;*International Journal of Biological Macromolecules*，中科院二区，TOP期刊，IF=8.4<br>
 &nbsp;&emsp;&emsp;Lun Zhu; Ziqi Zhang; <ins>**Sen Yang**</ins>*（通讯作者）
 
-[17]&ensp;SORFPP: Enhancing rich sequence-driven information to identify SEPs based on fused framework on validation datasets<br>
+[17]&ensp;SORFPP: Enhancing rich sequence-driven information to identify SEPs based on fused<br>
+&nbsp;&emsp;&emsp;framework on validation datasets<br>
 &nbsp;&emsp;&emsp;*PLOS One*，中科院三区，IF=2.9<br>
 &nbsp;&emsp;&emsp;Hongqi Feng; Qi Nie; <ins>**Sen Yang**</ins>*（通讯作者）
 
@@ -50,12 +51,14 @@ author_profile: true
 &nbsp;&emsp;&emsp;*Analytical Biochemistry*，中科院四区，IF=2.6<br>
 &nbsp;&emsp;&emsp;<ins>**Sen Yang**</ins>; Piao Xu*（第一作者）
 
-[10]&ensp;PPSNO: A Feature-Rich SNO Sites Predictor by Stacking Ensemble Strategy from Protein Sequence-Derived Information<br>
+[10]&ensp;PPSNO: A Feature-Rich SNO Sites Predictor by Stacking Ensemble Strategy<br>
+&nbsp;&emsp;&emsp;from Protein Sequence-Derived Information<br>
 &nbsp;&emsp;&emsp;*Interdisciplinary Sciences: Computational Life Sciences*，中科院二区，IF=3.9<br>
 &nbsp;&emsp;&emsp;Lun Zhu; Liuyang Wang; Zexi Yang; Piao Xu; <ins>**Sen Yang**</ins>*（通讯作者）
 
 ### 2023年
-[9]&ensp;LncCat: An ORF attention model to identify LncRNA based on ensemble learning strategy and fused sequence information<br>
+[9]&ensp;LncCat: An ORF attention model to identify LncRNA based on ensemble learning<br>
+&nbsp;&ensp;&emsp;strategy and fused sequence information<br>
 &nbsp;&ensp;&emsp;*Computational and Structural Biotechnology Journal*，中科院三区，IF=4.5<br>
 &nbsp;&ensp;&emsp;Hongqi Feng; Shaocong Wang; Yan Wang; Xinye Ni; Zexi Yang; Xuemei Hu; <ins>**Sen Yang**</ins>*（通讯作者）
 
@@ -64,7 +67,8 @@ author_profile: true
 &nbsp;&ensp;&emsp;*International Journal of Biological Macromolecules*，中科院二区，TOP期刊，IF=8.4<br>
 &nbsp;&ensp;&emsp;Zexi Yang; Yan Wang; Xinye Ni; <ins>**Sen Yang**</ins>*（通讯作者）
 
-[7]&ensp;AMPFinder: A computational model to identify antimicrobial peptides and their functions based on sequence-derived information<br>
+[7]&ensp;AMPFinder: A computational model to identify antimicrobial peptides and their functions<br>
+&nbsp;&ensp;&emsp;based on sequence-derived information<br>
 &nbsp;&ensp;&emsp;*Analytical Biochemistry*，中科院四区，IF=2.6<br>
 &nbsp;&ensp;&emsp;<ins>**Sen Yang**</ins>; Zexi Yang; Xinye Ni*（第一作者）
 
@@ -82,10 +86,12 @@ author_profile: true
 
 [4]&ensp;IDDLncLoc: Subcellular Localization of LncRNAs Based on a Framework for Imbalanced Data Distributions<br>
 &nbsp;&ensp;&emsp;*Interdisciplinary Sciences: Computational Life Sciences*，中科院二区，IF=3.9<br>
-&nbsp;&ensp;&emsp;Yan Wang; Xiaopeng Zhu; Lili Yang; Xuemei Hu; Kai He; Cuinan Yu; Shaoqing Jiao; Jiali Chen; Rui Guo; <ins>**Sen Yang**</ins>*（通讯作者）
+&nbsp;&ensp;&emsp;Yan Wang; Xiaopeng Zhu; Lili Yang; Xuemei Hu; Kai He;<br>
+&nbsp;&ensp;&emsp;Cuinan Yu; Shaoqing Jiao; Jiali Chen; Rui Guo; <ins>**Sen Yang**</ins>*（通讯作者）
 
 ### 2021年
-[3]&ensp;m6AGE: A Predictor for N6-Methyladenosine Sites Identification Utilizing Sequence Characteristics and Graph Embedding-Based<br>
+[3]&ensp;m6AGE: A Predictor for N6-Methyladenosine Sites Identification Utilizing Sequence<br>
+&nbsp;&ensp;&emsp;Characteristics and Graph Embedding-Based<br>
 &nbsp;&ensp;&emsp;Geometrical Information<br>
 &nbsp;&ensp;&emsp;*Frontiers in genetics*, 中科院三区，IF=2.8<br>
 &nbsp;&ensp;&emsp;Yan Wang; Rui Guo; Lan Huang; <ins>**Sen Yang**</ins>*; Xuemei Hu; Kai He (通讯作者)
@@ -95,7 +101,8 @@ author_profile: true
 &nbsp;&ensp;&emsp;*Molecules*, 中科院三区，IF=4.6<br>
 &nbsp;&ensp;&emsp;<ins>**Sen Yang**</ins>; Yan Wang*; Yu Lin; Dan Shao; Kai He; Lan Huang（第一作者）
 
-[1]&ensp;NCResNet: Noncoding Ribonucleic Acid Prediction Based on a Deep Resident Network of Ribonucleic Acid Sequences<br>
+[1]&ensp;NCResNet: Noncoding Ribonucleic Acid Prediction Based on a Deep Resident Network<br>
+&nbsp;&ensp;&emsp;of Ribonucleic Acid Sequences<br>
 &nbsp;&ensp;&emsp;*Frontiers in genetics*, 中科院三区，IF=2.8<br>
 &nbsp;&ensp;&emsp;<ins>**Sen Yang**</ins>; Yan Wang*; Shuangquan Zhang; Xuemei Hu; Qin Ma; Yuan Tian*（第一作者）
 
