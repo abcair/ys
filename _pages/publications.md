@@ -29,7 +29,17 @@ author_profile: true
 ##### 2022年
 
 ##### 2021年
-
+[3]
 ##### 2020年
+[2]
+
+[1]NCResNet: Noncoding Ribonucleic Acid Prediction Based on a Deep Resident Network of Ribonucleic Acid Sequences<br>
+*Frontiers in genetics*, 中科院三区，IF=2.8<br>
+<ins>**Sen Yang**</ins>, Yan Wang*, Shuangquan Zhang, Xuemei Hu，Qin Ma, Yuan Tian*（第一作者）
+
+
+
+
+
 
 
