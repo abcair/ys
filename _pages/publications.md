@@ -97,7 +97,8 @@ author_profile: true
 &nbsp;&ensp;&emsp;Yan Wang; Rui Guo; Lan Huang; <ins>**Sen Yang**</ins>*; Xuemei Hu; Kai He (通讯作者)
 
 ### 2020年
-[2]&ensp;LncMirNet: Predicting LncRNA-miRNA Interaction Based on Deep Learning of Ribonucleic Acid Sequences<br>
+[2]&ensp;LncMirNet: Predicting LncRNA-miRNA Interaction Based on Deep Learning of<br>
+&nbsp;&ensp;&emsp;Ribonucleic Acid Sequences
 &nbsp;&ensp;&emsp;*Molecules*, 中科院三区，IF=4.6<br>
 &nbsp;&ensp;&emsp;<ins>**Sen Yang**</ins>; Yan Wang*; Yu Lin; Dan Shao; Kai He; Lan Huang（第一作者）
 
