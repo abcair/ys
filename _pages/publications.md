@@ -9,6 +9,11 @@ author_profile: true
 
 ---
 ### 2025年
+[19]&ensp;CLTAP: A TAP-binding peptide prediction method using pre-trained large language-embedding models<br>
+&nbsp;&emsp;&emsp; with contrastive learning to enhance contextual co-attention mechanism<br>
+&nbsp;&emsp;&emsp;*Expert Systems with Applications*，中科院一区，TOP期刊，IF=7.5<br>
+&nbsp;&emsp;&emsp;Lun Zhu; Wei Chen; <ins>**Sen Yang**</ins>*（通讯作者）
+
 [18]&ensp;BioSeq_Ksite: Multi-perspective feature-driven prediction of protein succinylation based on an<br>
 &nbsp;&emsp;&emsp;adaptive attention module with SSBCE loss strategy <br>
 &nbsp;&emsp;&emsp;*International Journal of Biological Macromolecules*，中科院二区，TOP期刊，IF=8.4<br>
