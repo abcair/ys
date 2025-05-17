@@ -1,4 +1,5 @@
 ---
+title: "常州大学 计算机与人工智能学院"
 permalink: /
 author_profile: true
 redirect_from: 
@@ -6,10 +7,6 @@ redirect_from:
   - /about.html
   - /home/
 ---
-
-
-
-### 常州大学 计算机与人工智能学院
 
 ---
 **教育背景**
